@@ -2,3 +2,4 @@ Smart plant is a simple arduino project. Its main responsibilty is to manage wat
 ###Note:
   System contain multiple sensors moisture sensor, rain sensor, LDR.
   
+##Second Edit:
